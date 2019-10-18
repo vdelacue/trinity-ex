@@ -1,0 +1,1 @@
+document.dispatchEvent(new CustomEvent('__seguno-PRICE-RULE-CONFIG', { detail: {"id":"382105976947","type":"percentage","amount":50.0,"subtotalMinimum":null,"shippingMaximum":null,"quantityMinimum":null,"oncePerCustomer":true,"startsAt":"2019-05-09T03:55:00.000+00:00","endsAt":"2019-05-11T03:59:00.000+00:00","products":[],"entitlements":[]} }));

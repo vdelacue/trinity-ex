@@ -1,0 +1,1 @@
+document.dispatchEvent(new CustomEvent('__seguno-DISCOUNT-CONFIG', { detail: {"priceRule":"382105976947","code":"1year"} }));
